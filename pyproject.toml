@@ -36,7 +36,7 @@ dependencies = [
     "nomad-simulations@git+https://github.com/nomad-coe/nomad-simulations.git@develop",
     "python-magic-bin; sys_platform == 'win32'",
     "phonopy>=2.35",
-    "nomad-parser-plugins-electronic @ git+https://github.com/nomad-coe/electronic-parsers.git@unlink-parsers",
+    "nomad-parser-plugins-electronic @ git+https://github.com/nomad-coe/electronic-parsers.git@unlink-parser-numpy-update",
     "nomad-parser-plugins-workflow @ git+https://github.com/nomad-coe/workflow-parsers.git@unlink-parsers",
 ]
 
